@@ -1,0 +1,33 @@
+_repo: Sketches-of-the-War-A-Series-of-Letters-to-the-North-Moore-Street-School-of-New-York_60629
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Nott, Charles C.
+    alias: Nott, Charles Cooper
+    birthdate: 1827
+    deathdate: 1916
+    gutenberg_agent_id: '40242'
+    url: http://www.gutenberg.org/2009/agents/40242
+    wikipedia: https://en.wikipedia.org/wiki/Charles_C._Nott
+description: ''
+gutenberg_issued: '2019-11-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60629'
+  lccn: '12011539'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives'
+- !lcc 'E456'
+- !lcsh 'United States. Army. Iowa Cavalry Regiment, 5th (1861-1865)'
+- GITenberg
+tableOfContents: Preface -- The hospital -- Donelson -- The assault -- Foraging --
+  A flag of truce -- The Holly Fork -- Scouting -- A surprise -- The escape -- The
+  last scout.
+title: 'Sketches of the War
+
+  A Series of Letters to the North Moore Street School of New York'
+url: http://www.gutenberg.org/ebooks/60629
